@@ -1,0 +1,44 @@
+{
+  "commands": [
+    {
+      "command": "/ec",
+      "commands": [
+        "/ec"
+      ],
+      "iconItem": "item:minecraft:ender_chest",
+      "keyName": "key.keyboard.r"
+    },
+    {
+      "command": "/pvp",
+      "commands": [
+        "/pvp"
+      ],
+      "iconItem": "item:minecraft:diamond_sword",
+      "keyName": "key.keyboard.left"
+    },
+    {
+      "command": "/tpaccept",
+      "commands": [
+        "/tpaccept"
+      ],
+      "iconItem": "item:minecraft:ender_pearl",
+      "keyName": "key.keyboard.right"
+    },
+    {
+      "command": "/home",
+      "commands": [
+        "/home"
+      ],
+      "iconItem": "item:minecraft:red_bed",
+      "keyName": "key.keyboard.down"
+    },
+    {
+      "command": "/crawl",
+      "commands": [
+        "/crawl"
+      ],
+      "iconItem": "item:minecraft:oak_trapdoor",
+      "keyName": "key.keyboard.c"
+    }
+  ]
+}

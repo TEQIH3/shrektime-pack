@@ -1,0 +1,22 @@
+{
+  "announcements": [
+    {
+      "title": "Event ce samedi à 20h : course de marais",
+      "body": "Rendez-vous au spawn. Récompenses pour les 3 premiers !",
+      "date": "2026-10-10",
+      "type": "event"
+    }
+  ],
+  "patchnotes": [
+    {
+      "version": "1.2",
+      "date": "2026-10-07",
+      "title": "Mise à jour d'octobre",
+      "items": [
+        "Nouveau mod : Jade (infos des blocs)",
+        "Correction du crash au chargement des shaders",
+        "Distance d'affichage par défaut réduite"
+      ]
+    }
+  ]
+}
