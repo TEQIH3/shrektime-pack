@@ -1,8 +1,8 @@
 {
   "announcements": [
     {
-      "title": "Mise à jour du Launcher !",
-      "body": "La 1.1.1 est disponible :\n\n• Nouvel onglet « Boutique », permettant d'acheter des objets directement depuis le Launcher, et de les recevoir en jeu.\n• Système de mise à jour automatique du Launcher.\n\nNouvelles commandes in-game :\n• /launcher pour obtenir un code permettant de linker son compte au Launcher.\n• /launcher shop pour récupérer les items achetés sur le Launcher.\n\nTélécharger le Launcher : https://github.com/TEQIH3/shrektime-pack/releases/latest",
+      "title": "Mise à jour du Launcher 1.1.1 !",
+      "body": "Launcher 1.1.1 disponible !\n\n• Onglet Boutique : Achetez vos objets directement sur le Launcher.\n• Mises à jour automatiques : Le Launcher se met désormais à jour tout seul.\n• Nouvelles commandes in-game :\n  • /launcher : Obtenir un code de liaison.\n  • /launcher shop : Récupérer vos achats.\n\nTéléchargement : https://github.com/TEQIH3/shrektime-pack/releases/latest",
       "date": "2026-10-13",
       "type": "info"
     },
