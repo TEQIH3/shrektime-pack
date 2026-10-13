@@ -11,7 +11,8 @@
       "path": "config/appleskin.json5",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/appleskin.json5",
       "sha1": "a838f54303b91a5b03b748d31ef15d5b7169284a",
-      "size": 1218
+      "size": 1218,
+      "initial": true
     },
     {
       "path": "config/BBEConfig.json",
@@ -41,7 +42,8 @@
       "path": "config/chesttracker.json5",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/chesttracker.json5",
       "sha1": "6f2c5d6b1d9eda05d8a7ad882dc825bdf860a9da",
-      "size": 827
+      "size": 827,
+      "initial": true
     },
     {
       "path": "config/continuity.json",
@@ -53,25 +55,29 @@
       "path": "config/controlify/controlify.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/controlify/controlify.json",
       "sha1": "01f69d19e29514745aa2563113f68a1ac2e5b339",
-      "size": 563
+      "size": 563,
+      "initial": true
     },
     {
       "path": "config/controlify/profile-1.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/controlify/profile-1.json",
       "sha1": "7996392a0dc91bb91a27bdbf8a170de0f94d3ff3",
-      "size": 1570
+      "size": 1570,
+      "initial": true
     },
     {
       "path": "config/controlify/profile-1.lock",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/controlify/profile-1.lock",
       "sha1": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
-      "size": 0
+      "size": 0,
+      "initial": true
     },
     {
       "path": "config/controlify.json.backup",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/controlify.json.backup",
       "sha1": "4b6dafc2496791560d90fe608bd8167816fb43a3",
-      "size": 581
+      "size": 581,
+      "initial": true
     },
     {
       "path": "config/crash_assistant/config.toml",
@@ -281,7 +287,8 @@
       "path": "config/inventoryhud.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/inventoryhud.json",
       "sha1": "07b47531b89229ff6b71369eb2b49794e73018ee",
-      "size": 1689
+      "size": 1689,
+      "initial": true
     },
     {
       "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
@@ -330,49 +337,57 @@
       "path": "config/jade/hide-blocks.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/hide-blocks.json",
       "sha1": "a503776a467ca75d97916f99bf665dbf64a521a9",
-      "size": 149
+      "size": 149,
+      "initial": true
     },
     {
       "path": "config/jade/hide-entities.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/hide-entities.json",
       "sha1": "ef2152a130cc5ff42903c76e69c3e4279d94b9e7",
-      "size": 243
+      "size": 243,
+      "initial": true
     },
     {
       "path": "config/jade/hide-mob-effects.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/hide-mob-effects.json",
       "sha1": "8cd6a884f5993433cfed48e00cf803d96e2c8deb",
-      "size": 132
+      "size": 132,
+      "initial": true
     },
     {
       "path": "config/jade/jade.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/jade.json",
       "sha1": "4af45714f074227575a40b0ce8f4efbc875abfae",
-      "size": 3727
+      "size": 3727,
+      "initial": true
     },
     {
       "path": "config/jade/profiles/1/jade.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/profiles/1/jade.json",
       "sha1": "90141bb5708c9386f31cd7dffb9cac12ffb53962",
-      "size": 3506
+      "size": 3506,
+      "initial": true
     },
     {
       "path": "config/jade/profiles/2/jade.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/profiles/2/jade.json",
       "sha1": "e364340640a6fd97afc5e027a51ad144232e4726",
-      "size": 3515
+      "size": 3515,
+      "initial": true
     },
     {
       "path": "config/jade/profiles/3/jade.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/profiles/3/jade.json",
       "sha1": "9df6c69b58f37c0282fd644bd8d42cdc5d0fb79a",
-      "size": 3458
+      "size": 3458,
+      "initial": true
     },
     {
       "path": "config/jade/sort-order.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/jade/sort-order.json",
       "sha1": "ce6fd5cdf800f13b4b266fb09a9e00f1a75134d6",
-      "size": 2173
+      "size": 2173,
+      "initial": true
     },
     {
       "path": "config/lambdynlights.toml",
@@ -456,7 +471,8 @@
       "path": "config/qcommand-client.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/qcommand-client.json",
       "sha1": "f1dc35e03af9f374403abf2232130919330f01b4",
-      "size": 865
+      "size": 865,
+      "initial": true
     },
     {
       "path": "config/rrls.toml",
@@ -474,7 +490,8 @@
       "path": "config/sodium-extra-options.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/sodium-extra-options.json",
       "sha1": "512dccebffa7287939e6ab685f8a75ead7a7007e",
-      "size": 7348
+      "size": 7348,
+      "initial": true
     },
     {
       "path": "config/sodium-extra.properties",
@@ -498,7 +515,8 @@
       "path": "config/sodium-options.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/sodium-options.json",
       "sha1": "4fdfe01e95f9afbd4d5f0c4b2016119087195b71",
-      "size": 742
+      "size": 742,
+      "initial": true
     },
     {
       "path": "config/sodium-shadowy-path-blocks-options.json",
@@ -522,13 +540,15 @@
       "path": "config/voicechat/category-volumes.properties",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/voicechat/category-volumes.properties",
       "sha1": "c9f8fd05a81e609071657f5c4c27d5cd377c5b12",
-      "size": 46
+      "size": 46,
+      "initial": true
     },
     {
       "path": "config/voicechat/player-volumes.properties",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/voicechat/player-volumes.properties",
       "sha1": "c77eeb6fb16c2844e9bbcf19667d30c9401212d5",
-      "size": 44
+      "size": 44,
+      "initial": true
     },
     {
       "path": "config/voicechat/translations.properties",
@@ -540,13 +560,15 @@
       "path": "config/voicechat/username-cache.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/voicechat/username-cache.json",
       "sha1": "bf21a9e8fbc5a3846fb05b4fa0859e0917b2202f",
-      "size": 2
+      "size": 2,
+      "initial": true
     },
     {
       "path": "config/voicechat/voicechat-client.properties",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/voicechat/voicechat-client.properties",
       "sha1": "f11e0e8a781d5474c266100ddecef475fc8781a7",
-      "size": 5060
+      "size": 5060,
+      "initial": true
     },
     {
       "path": "config/voicechat/voicechat-server.properties",
@@ -570,7 +592,8 @@
       "path": "config/zoomify.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/zoomify.json",
       "sha1": "d9a9878c8753f2580a0b43eb6afd7c6dfec31902",
-      "size": 708
+      "size": 708,
+      "initial": true
     },
     {
       "path": "mods/animatica-0.6.3+26.2.jar",
