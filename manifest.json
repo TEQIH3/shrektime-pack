@@ -768,6 +768,7 @@
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/mods/InventoryProfilesNext-fabric-26.2-2.3.5.jar",
       "sha1": "c1278ddd631b3aa05480028585420f13eb7b4623",
       "size": 1461780
+      "initial": true
     },
     {
       "path": "mods/iris-fabric-1.11.2+mc26.2.jar",
