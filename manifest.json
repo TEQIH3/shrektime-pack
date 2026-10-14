@@ -294,19 +294,22 @@
       "path": "config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/inventoryprofilesnext/integrationHints/exampleIntegrationHints.json",
       "sha1": "2bedb4d58a778b937dd9da01c50a46af9887709b",
-      "size": 1450
+      "size": 1450,
+      "initial": true
     },
     {
       "path": "config/inventoryprofilesnext/inventoryprofiles.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/inventoryprofilesnext/inventoryprofiles.json",
       "sha1": "58b81b870399a90daad1a3249c68c2d5bd18abf9",
-      "size": 57
+      "size": 57,
+      "initial": true
     },
     {
       "path": "config/inventoryprofilesnext/shrektime.kaillire.fr/villager-trading-config-v2.json",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/config/inventoryprofilesnext/shrektime.kaillire.fr/villager-trading-config-v2.json",
       "sha1": "e2593acfcb9d84fa2c050b145242d28cc28fb25f",
-      "size": 1177
+      "size": 1177,
+      "initial": true
     },
     {
       "path": "config/iris-excluded.json",
