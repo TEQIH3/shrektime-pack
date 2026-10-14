@@ -1,5 +1,25 @@
 {
   "generated": "2026-10-07T22:55:21.556Z",
+  "profiles": {
+    "compat": {
+      "description": "Profil de compatibilité (PC ARM64 / Mesa D3D12 / Mode performance) : retire ImmediatelyFast et coupe les shaders.",
+      "activateWhen": {
+        "arch": [
+          "arm64"
+        ],
+        "performanceMode": true
+      },
+      "remove": [
+        "mods/ImmediatelyFast-Fabric-1.16.2+26.2.jar",
+        "config/immediatelyfast.json"
+      ],
+      "overrides": {
+        "config/iris.properties": {
+          "enableShaders": "false"
+        }
+      }
+    }
+  },
   "files": [
     {
       "path": "config/animatica.properties",
@@ -961,7 +981,7 @@
       "initial": true
     },
     {
-      "path": "resourcepacks/#U00a76#U00a7lVanilla Experience+#U00a70.zip",
+      "path": "resourcepacks/Vanilla Experience+.zip",
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/resourcepacks/%23U00a76%23U00a7lVanilla%20Experience%2B%23U00a70.zip",
       "sha1": "ca989a2420f9e0f92394c04819156eb132655ecb",
       "size": 1808221
