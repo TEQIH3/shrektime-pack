@@ -18,6 +18,31 @@
           "enableShaders": "false"
         }
       }
+    },
+    "lite": {
+      "description": "Version légère : sans shaders ni mods d'ambiance (menus animés, éclairage dynamique, textures avancées). Pour les PC modestes.",
+      "activateWhen": {
+        "packProfile": "lite"
+      },
+      "remove": [
+        "mods/iris-fabric-1.11.2+mc26.2.jar",
+        "mods/continuity-3.0.1+26.2.jar",
+        "mods/entity_texture_features-7.1.1-26.2-fabric.jar",
+        "mods/entity_model_features-3.2.6-26.2-fabric.jar",
+        "mods/optigui-2.3.0-beta.10+26.2.jar",
+        "mods/polytone-fabric-26.2-5.10.2.jar",
+        "mods/animatica-0.6.3+26.2.jar",
+        "mods/puzzle-fabric-2.3.1+26.2.jar",
+        "mods/skyboxify-3.1+26.2-fabric.jar",
+        "mods/lambdynamiclights-4.12.2+26.2.jar",
+        "mods/fancymenu_fabric_3.9.9_MC_26.2.jar",
+        "mods/konkrete_fabric_1.11.1_MC_26.2.jar",
+        "mods/melody_fabric_1.0.17_MC_26.2.jar",
+        "shaderpacks/BSL_v10.1.3.zip",
+        "shaderpacks/ComplementaryReimagined_r5.8.1.zip",
+        "shaderpacks/MakeUp-UltraFast-9.5c.zip",
+        "shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip"
+      ]
     }
   },
   "files": [
