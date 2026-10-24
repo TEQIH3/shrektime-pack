@@ -2,7 +2,7 @@
   "announcements": [
     {
       "title": "Mise à jour du Launcher !",
-      "body": "La 1.1.6 est disponible :\n\n• Refonte complète des mini-jeux : Saute-oignon et Oignon clicker ont été entièrement refaits.\n• Nouveau menu déroulant (🏆) : Profil, Succès et mini-jeux, Classements, Minecraftdle et Captures d'écran sont réunis au même endroit.\n• Minecraftdle : devine chaque jour l'objet mystère de la boutique, garde ta série en vie et partage ton résultat sur le Discord.\n• Conseil selon ton PC : le Launcher te recommande la mémoire et les réglages adaptés à ta machine.\n• Galerie de captures d'écran : retrouve tes captures (touche F2 en jeu), copie-les pour les coller sur Discord ou supprime-les.\n• Profil : ton solde, ton grade, tes statistiques de jeu et tes records en un coup d'œil, avec les classements des mini-jeux.",
+      "body": "La 1.1.6 est disponible :\n\n• Mini-jeux entièrement refaits (Saute-oignon, Oignon clicker).\n• Nouveau menu déroulant 🏆.\n• Minecraftdle : l'objet du jour.\n• Conseil selon ton PC.\n• Galerie de captures d'écran.\n• Profil et classements.",
       "date": "2026-10-24",
       "type": "info"
     },
