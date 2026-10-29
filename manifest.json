@@ -44,6 +44,16 @@
         "shaderpacks/MakeUp-UltraFast-9.5c.zip",
         "shaderpacks/Sildur's Vibrant Shaders v2.01 Extreme.zip"
       ]
+    },
+    "noxaero": {
+      "description": "Sans Xaero's Minimap ni World Map (case décochée dans les paramètres du launcher).",
+      "activateWhen": {
+        "xaero": false
+      },
+      "remove": [
+        "mods/xaerominimap-fabric-26.2-26.6.2.jar",
+        "mods/xaeroworldmap-fabric-26.2-1.47.2.jar"
+      ]
     }
   },
   "files": [
@@ -1054,6 +1064,18 @@
       "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/shaderpacks/Sildur's%20Vibrant%20Shaders%20v2.01%20Extreme.zip",
       "sha1": "78021b50600a7c46ce9371348b130cbb1f225f6f",
       "size": 251294
+    },
+    {
+      "path": "mods/xaerominimap-fabric-26.2-26.6.2.jar",
+      "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/mods/xaerominimap-fabric-26.2-26.6.2.jar",
+      "sha1": "6b3cb6ee2752e0bd318c46055c865be73163db0a",
+      "size": 2225160
+    },
+    {
+      "path": "mods/xaeroworldmap-fabric-26.2-1.47.2.jar",
+      "url": "https://raw.githubusercontent.com/TEQIH3/shrektime-pack/main/files/mods/xaeroworldmap-fabric-26.2-1.47.2.jar",
+      "sha1": "259b747c39c61df1ad96f6c4caefa9934cb6aaa5",
+      "size": 1484601
     }
   ]
 }
