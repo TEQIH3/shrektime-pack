@@ -1,6 +1,12 @@
 {
   "announcements": [
     {
+      "title": "MISE À JOUR 1.1.8 !",
+      "body": "La 1.1.8 est disponible :\n\n• Nouvelle option « Minimap et carte du monde » (Xaero's) dans les Paramètres.\n• Désactivée par défaut : coche la case pour l'activer, le changement s'applique au prochain lancement.",
+      "date": "2026-10-29",
+      "type": "info"
+    },
+    {
       "title": "MISE À JOUR 1.1.7 !",
       "body": "La 1.1.7 est disponible :\n\n• Mini-jeux entièrement refaits (Saute-oignon, Oignon clicker).\n• Nouveau menu déroulant 🏆.\n• Minecraftdle : l'objet du jour.\n• Conseil selon ton PC.\n• Galerie de captures d'écran.\n• Profil et classements.",
       "date": "2026-10-24",
